@@ -61,3 +61,15 @@ Contributions are welcome! Please read our [contribution guidelines](CONTRIBUTIN
 ## 4. Tutorials and Resources
 
 - **[VOLE-Based ZK - Chainlink Blog](https://blog.chain.link/vole-based-zk/)** - Accessible introduction to VOLE-based ZK with practical applications and benefits.
+
+- **[Latincrypt 2023 Conference Proceedings](https://www.espe.edu.ec/wp-content/uploads/2023/10/latincrypt2023_compressed.pdf)** - Conference proceedings covering advances in Latin American cryptography including VOLE-related research.
+
+- **[VOLE-Based Zero-Knowledge Proof - Medium Article](https://medium.com/4hours/vole-based-zero-knowledge-proof-7f15ff2245f3)** - Technical deep dive into VOLE-based ZK protocols with implementation insights and practical considerations.
+
+- **[VOLE-in-the-Head - NIST PQC Seminar](https://csrc.nist.gov/csrc/media/Projects/post-quantum-cryptography/documents/pqc-seminars/presentations/15-vole-in-the-head-06182024.pdf)** - NIST presentation on VOLE-in-the-Head constructions for post-quantum cryptography applications.
+
+- **[NIST Construction of Digital Signatures from VOLE-in-the-Head](https://www.nist.gov/video/constructions-digital-signatures-part-ii-vole-head-and-faest)** - NIST video presentation on digital signature constructions using VOLE-in-the-Head and FAEST.
+
+- **[VOLE Introduction - Cryptography Explained](https://www.youtube.com/watch?v=9ToR-IfZXb4)** - Educational video explaining VOLE fundamentals and applications in modern cryptography.
+
+- **[Advanced VOLE Techniques](https://www.youtube.com/watch?v=n6ovbe8rm3I)** - Technical presentation covering advanced VOLE techniques and optimization strategies.
