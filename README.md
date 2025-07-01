@@ -1,7 +1,5 @@
 # Awesome VOLE　[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome Vector Oblivious Linear Evaluation (VOLE) resources, protocols, implementations, and applications.
-
 VOLE (Vector Oblivious Linear Evaluation) is a fundamental cryptographic primitive that extends Oblivious Linear Evaluation to vectors, enabling efficient secure multi-party computation and zero-knowledge proof systems.
 
 Contributions are welcome! Please read our [contribution guidelines](CONTRIBUTING.md) first.
