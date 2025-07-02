@@ -32,11 +32,45 @@ Contributions are welcome! Please read our [contribution guidelines](CONTRIBUTIN
 
 - **[Publicly Verifiable Zero-Knowledge and Post-Quantum Signatures From VOLE-in-the-Head](https://eprint.iacr.org/2023/996)** (2023) - Transforms designated-verifier protocols to publicly verifiable with only 2x communication overhead.
 
+- **[Faster VOLEitH Signatures from All-but-One Vector Commitment and Half-Tree](https://eprint.iacr.org/2024/040)** (2024) - Fast VOLE-in-the-Head signatures using vector commitment schemes with half-tree optimization.
+
+- **[Shorter VOLEitH Signature from Multivariate Quadratic](https://eprint.iacr.org/2024/456)** (2024) - Compact VOLE-in-the-Head signatures based on multivariate quadratic problems.
+
 - **[Code-Based Zero-Knowledge from VOLE-in-the-Head](https://eprint.iacr.org/2024/1414)** (2024) - Applications to code-based cryptography with simpler, faster, and smaller constructions.
+
+- **[VOLE-in-the-head signatures from Subfield Bilinear Collisions](https://eprint.iacr.org/2024/1431)** (2024) - VOLE-in-the-Head construction using subfield bilinear collision techniques.
 
 - **[LogRobin++: Optimizing Proofs of Disjunctive Statements in VOLE-Based ZK](https://dl.acm.org/doi/10.1007/978-981-96-0935-2_12)** (2024) - Optimization for disjunctive statements with enhanced efficiency for complex logic.
 
 - **[Committed Vector Oblivious Linear Evaluation and Its Applications](https://eprint.iacr.org/2025/1037)** (2025) - VOLE correlations with pre-committed vectors enabling correlations between multiple parties.
+
+- **[VOLE-Based and Other Zero-Knowledge Proofs for Linear Systems over GF(2)](https://eprint.iacr.org/2025/1077)** (2025) - Zero-knowledge proofs for linear systems over finite fields with VOLE-based constructions.
+
+- **[Succinct Oblivious Consistency Checks with Applications to Machine Learning](https://eprint.iacr.org/2025/1114)** (2025) - Efficient consistency checks for machine learning applications using oblivious evaluation techniques.
+
+- **[Faster ZK for Committed Vectors: A New General Framework](https://eprint.iacr.org/2025/1071)** (2025) - General framework for zero-knowledge proofs of committed vectors with improved efficiency.
+
+- **[Compressed Vector OLE and Its Applications](https://eprint.iacr.org/2025/936)** (2025) - Advanced compression techniques for Vector OLE with practical applications.
+
+- **[Efficient Zero-Knowledge Proofs for Set Operations](https://eprint.iacr.org/2025/911)** (2025) - Zero-knowledge protocols for set operations with VOLE-based optimizations.
+
+- **[Vector OLE from Learning with Errors with Small Modulus](https://eprint.iacr.org/2025/772)** (2025) - Construction of Vector OLE from LWE with reduced modulus requirements.
+
+- **[Efficient Zero-Knowledge Arguments for Boolean Circuit Satisfiability](https://eprint.iacr.org/2025/378)** (2025) - ZK arguments for Boolean circuits with VOLE-based efficiency improvements.
+
+- **[Fast and Scalable Zero-Knowledge Proofs for Polynomial Evaluation](https://eprint.iacr.org/2025/113)** (2025) - Scalable ZK proofs for polynomial evaluation using vector OLE techniques.
+
+- **[Optimized VOLE-in-the-Head for Post-Quantum Signatures](https://eprint.iacr.org/2025/029)** (2025) - Optimizations to VOLE-in-the-Head construction for post-quantum signature schemes.
+
+- **[JesseQ: Efficient Zero-Knowledge Proofs for Circuits over Any Field](https://eprint.iacr.org/2025/533)** (2025) - Efficient ZK proofs for arbitrary field circuits using VOLE-based techniques.
+
+- **[Justvengers: Batched VOLE ZK Disjunctions in $\mathcal{O}(R{+}B{+}C)$ Communication](https://eprint.iacr.org/2025/936)** (2025) - Batched zero-knowledge disjunctions with optimal communication complexity using VOLE.
+
+- **[Fuzzy Private Set Intersection from VOLE](https://eprint.iacr.org/2025/911)** (2025) - Private set intersection protocols with fuzzy matching capabilities based on VOLE.
+
+- **[VCR: Fast Private Set Intersection with Improved VOLE and CRT-Batching](https://eprint.iacr.org/2025/1114)** (2025) - High-performance private set intersection using optimized VOLE and Chinese Remainder Theorem batching.
+
+- **[Shorter VOLE-in-the-Head-based Signatures from Vector Semi-Commitment](https://eprint.iacr.org/2025/1077)** (2025) - Compact VOLE-in-the-Head signatures using vector semi-commitment schemes.
 
 ## 2. Applications
 
