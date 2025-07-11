@@ -72,6 +72,8 @@ Contributions are welcome! Please read our [contribution guidelines](CONTRIBUTIN
 
 - **[Shorter VOLE-in-the-Head-based Signatures from Vector Semi-Commitment](https://eprint.iacr.org/2025/1077)** (2025) - Compact VOLE-in-the-Head signatures using vector semi-commitment schemes.
 
+- *[FAEST for Memory-Constrained Devices with Side-Channel Protections](https://eprint.iacr.org/2025/1261.pdf)* (2025) - Introdueced VOLE Black Box (VBB) reduces memory consumption by calculating and recalculating VOLE data on demand in the FAEST signature algorithm, enabling operation on resource-constrained microcontrollers.
+
 ## 2. Applications
 
 - **[FAEST Signature Scheme](https://github.com/faest-sign)** - Fast AES-based post-quantum signature from VOLE-in-the-Head with 5.6-6.6kB signatures, 8x-40x faster signing than SPHINCS+, and NIST standardization candidate status.
